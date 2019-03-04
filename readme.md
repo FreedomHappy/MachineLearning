@@ -58,5 +58,25 @@ Tutorial
 
 * [AI 算法工程师手册](http://www.huaxiaozhuan.com/)
 
+Blog
+* [蓝亚之舟](https://zhoushuo.net/)
 
+* [SnailTyan](http://noahsnail.com/)[仓库-深度学习相关论文](https://github.com/SnailTyan/deep-learning-papers-translation)
+
+* [Eason.wxd](https://blog.csdn.net/app_12062011)
+
+* [hjimce](https://blog.csdn.net/hjimce)
+
+* [Jesse_Mx](https://blog.csdn.net/jesse_mx)
+
+* [Oldpan.me](https://oldpan.me/)
+
+* [dy_guox](https://blog.csdn.net/dy_guox)
+
+Related Repository
+* [facebookresearch/Detectron](https://github.com/facebookresearch/Detectron)
+
+* [Deeper LSTM+ normalized CNN for Visual Question Answering](https://github.com/GT-Vision-Lab/VQA_LSTM_CNN)
+
+* [Image QA](https://github.com/renmengye/imageqa-public)
 
