@@ -16,6 +16,8 @@ kaggle-[It's not just the competition](https://www.kaggle.com/)
 
 [The PASCAL Visual Object Classes Homepage](http://host.robots.ox.ac.uk/pascal/VOC/)
 
+[PASCAL VOC 数据集分析及下载](https://blog.csdn.net/zhangjunbob/article/details/52769381)
+
 [Imagenet](http://imagenet.stanford.edu/synset?wnid=n02123394#)
 
 [NYU Depth V2](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html)
@@ -26,3 +28,13 @@ kaggle-[It's not just the competition](https://www.kaggle.com/)
 ## basic MachineLearning
 [机器学习初学者](http://www.ai-start.com/)
 ## deeplearning
+Tutorial
+
+[deeplearning course](https://classroom.udacity.com/courses/ud730)
+
+[Hung-yi Lee  --台湾李宏毅教授课程](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html)
+
+[中科视拓课程 网易云课堂](https://study.163.com/my?from=study)
+
+[个人B站AI收藏](https://space.bilibili.com/33588731/favlist?fid=170040631&ftype=create)
+
