@@ -58,7 +58,7 @@
 
 * [AI 算法工程师手册](http://www.huaxiaozhuan.com/)
 
-#### Blog
+### Blog
 * [蓝亚之舟](https://zhoushuo.net/)
 
 * [SnailTyan](http://noahsnail.com/)[仓库-深度学习相关论文](https://github.com/SnailTyan/deep-learning-papers-translation)
