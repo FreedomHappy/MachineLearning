@@ -25,10 +25,10 @@
 * [MPI-INf](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/vision-and-language/visual-turing-challenge/)
 
 * [Toronto COCO-QA Dataset](http://www.cs.toronto.edu/~mren/imageqa/data/cocoqa/)
-## basic MachineLearning
+## Basic MachineLearning
 [机器学习初学者](http://www.ai-start.com/)
-## deeplearning
-Related and learning site
+## Deeplearning
+### Related and learning site
 * [机器之心](https://www.jiqizhixin.com/)
 
 * [YOLO](https://pjreddie.com/darknet/yolo/)
@@ -42,7 +42,7 @@ Related and learning site
 * [CaffeCN](http://www.caffecn.cn/)
 
 * [中科视拓](http://www.seetatech.com/)
-Tutorial
+### Tutorial
 1. Video
 * [deeplearning course -Udacity](https://classroom.udacity.com/courses/ud730)
 
@@ -58,7 +58,7 @@ Tutorial
 
 * [AI 算法工程师手册](http://www.huaxiaozhuan.com/)
 
-Blog
+#### Blog
 * [蓝亚之舟](https://zhoushuo.net/)
 
 * [SnailTyan](http://noahsnail.com/)[仓库-深度学习相关论文](https://github.com/SnailTyan/deep-learning-papers-translation)
@@ -73,10 +73,15 @@ Blog
 
 * [dy_guox](https://blog.csdn.net/dy_guox)
 
-Related Repository
+### Related Repository
 * [facebookresearch/Detectron](https://github.com/facebookresearch/Detectron)
 
 * [Deeper LSTM+ normalized CNN for Visual Question Answering](https://github.com/GT-Vision-Lab/VQA_LSTM_CNN)
 
 * [Image QA](https://github.com/renmengye/imageqa-public)
+### Tensorflow
+* [course Google](https://developers.google.com/machine-learning/crash-course/)
 
+* [Tensorflow API](https://www.tensorflow.org/)
+
+* [TensorflowNews](http://www.tensorflownews.com/)
