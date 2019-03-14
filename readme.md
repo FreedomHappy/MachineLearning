@@ -8,6 +8,9 @@
 * DataSciense course [DAT8 Course Repository](https://github.com/justmarkham/DAT8)
 
 * Hands-on Machine Learning [repository](https://github.com/ageron/handson-ml)
+
+## Paper website
+* [arXiv](https://arxiv.org/)
 ## Datasets
 * [COCO](http://cocodataset.org/#home)
 
