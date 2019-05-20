@@ -60,7 +60,7 @@
 
 * [个人B站AI收藏](https://space.bilibili.com/33588731/favlist?fid=170040631&ftype=create)
 2. Book
-* 神经网络与深度学习 [book](https://github.com/mnielsen/neural-networks-and-deep-learning) [book-RelatedRepository](https://github.com/mnielsen/neural-networks-and-deep-learning)
+* 神经网络与深度学习 [book](http://neuralnetworksanddeeplearning.com/) [book-RelatedRepository](https://github.com/mnielsen/neural-networks-and-deep-learning)
 * DeepLearning Book  花书 [英文版](http://www.deeplearningbook.org/) [中文版](https://github.com/exacity/deeplearningbook-chinese)
 
 * 机器学习 西瓜书 周志华
