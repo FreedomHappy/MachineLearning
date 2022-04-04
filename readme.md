@@ -52,6 +52,8 @@
 * [中科视拓](http://www.seetatech.com/)
 ### Tutorial
 1. Video
+* [麻省理工学院公开课：人工智能-12 学习：神经网络、反向传播-网易公开课](https://open.163.com/newview/movie/free?pid=MCTMNN3UI&mid=MCTMOTSCG&frm=record)
+
 * [deeplearning course -Udacity](https://classroom.udacity.com/courses/ud730)
 
 * [Hung-yi Lee  --台湾李宏毅教授课程](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html)
